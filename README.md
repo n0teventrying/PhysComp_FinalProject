@@ -1,2 +1,2 @@
-# PHYSCOMP
-Wea re anaonymus
+# Proyecto Final de Física Computacional
+Te amodio Jackson.
