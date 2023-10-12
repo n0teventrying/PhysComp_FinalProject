@@ -1,0 +1,2 @@
+Okay, i think what i want to do is a simulation of the 3 Body problem and i think a qualitive analysis would be helpful.
+So, last semester i kinda did a Fourier Analysis project, but it was static images, and i dont want to reuse it, i want to see movement and also my body my decision
