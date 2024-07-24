@@ -1,0 +1,2 @@
+# WACHINANGO
+ Ubuntu nos crasheo
